@@ -2,9 +2,7 @@
 
 The code for Part Two of my two-part article, *Flask Or Django? An In-Depth Comparison*.
 
-Have you just gotten started with Python for the web, and are wondering which Python framework to learn or use for your next project? Then you've probably heard of [Django](https://www.djangoproject.com/), [Flask](http://flask.pocoo.org/), or both. Although there are other Python web frameworks, such as [Pyramid](https://trypyramid.com/), [web2py](http://www.web2py.com/), and [TurboGears](http://turbogears.org/), Django and Flask remain the most popular.
-
-Part Two continues comparing the two frameworks. In this part, we will look at their:
+Welcome back to the _Flask or Django_ series. In [Part One](https://scotch.io/bar-talk/flask-or-django-an-in-depth-comparison-part-one), we compared the two frameworks on the basis of their popularity, documentation and ease of getting started, routing system, and templating system. In Part Two, we're going to take a look at their:
 
 1. Data Storage
 2. Views
