@@ -1,22 +1,23 @@
-![featured-image](https://raw.githubusercontent.com/mbithenzomo/flask-or-django-part-one/master/flask-or-django-1.jpg)
+![featured-image](https://raw.githubusercontent.com/mbithenzomo/flask-or-django-part-two/master/flask-or-django-2.jpg)
 
-The code for Part One of my two-part article, *Flask Or Django? An In-Depth Comparison*.
+The code for Part Two of my two-part article, *Flask Or Django? An In-Depth Comparison*.
 
 Have you just gotten started with Python for the web, and are wondering which Python framework to learn or use for your next project? Then you've probably heard of [Django](https://www.djangoproject.com/), [Flask](http://flask.pocoo.org/), or both. Although there are other Python web frameworks, such as [Pyramid](https://trypyramid.com/), [web2py](http://www.web2py.com/), and [TurboGears](http://turbogears.org/), Django and Flask remain the most popular.
 
-This series will offer an in-depth comparison of Flask and Django, looking at various factors. In Part One, we will compare their:
+Part Two continues comparing the two frameworks. In this part, we will look at their:
 
-1. Popularity
-2. Documentation and ease of getting started
-3. Routing system
-4. Templating system
+1. Data Storage
+2. Views
+3. Forms
+4. Tests
+5. Interesting Features
 
 # Installation and Set Up
 
 To see the demos for both Flask and Django on your machine, begin by cloning this repo:
 
 ```
-git clone https://github.com/andela-mnzomo/flask-bucketlist-api
+git clone https://github.com/mbithenzomo/flask-or-django-part-two.git
 ```
 
 ## Flask
