@@ -17,9 +17,14 @@ from django.conf.urls import url
 from django.contrib import admin
 from django.views.generic import TemplateView
 
+from new_app import views
+
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^show-template/$', TemplateView.as_view(
         template_name="template.html")),
+    url(r'^signup/$', views.sign_up, name='signup'),
+    url(r'^current-time/$', views.current_time),
+    url(r'^current-time-two/$', views.CurrentTimeTwo.as_view())
 ]
